@@ -1,0 +1,29 @@
+Kapatma Zamanlayıcısı
+Telif Hakkı © 2026 Sistem F (https://www.sistemf.com.tr). Tüm hakları saklıdır.
+
+KULLANIM ŞARTLARI
+
+1. Bu yazılım kişisel ve ticari bilgisayarlarda ücretsiz kullanılabilir.
+2. Yazılım, değiştirilmeden ve ücretsiz olmak koşuluyla başkalarıyla paylaşılabilir.
+   Paylaşırken resmi indirme adresinin verilmesi önerilir:
+   https://github.com/SistemF/kapatma-zamanlayici/releases/latest
+3. Sistem F'nin yazılı izni olmadan şunlar yapılamaz:
+   - yazılımın satılması, kiralanması ya da ücret karşılığı dağıtılması;
+   - yazılımın değiştirilmesi, kaynak kodunun çıkarılması, tersine mühendislik
+     (yürürlükteki yasaların açıkça izin verdiği durumlar dışında);
+   - "Sistem F" adının, "Powered by Sistem F" ibaresinin, telif bildirimlerinin ya da
+     logoların kaldırılması veya değiştirilmesi;
+   - yazılımın başka bir ad altında ya da başka birine aitmiş gibi yayımlanması.
+4. Yazılım "olduğu gibi" sunulur; hiçbir garanti verilmez. Bilgisayarı kapatma,
+   yeniden başlatma ve benzeri işlemlerden önce açık çalışmaları kaydetmek kullanıcının
+   sorumluluğundadır. Sistem F, yazılımın kullanımından doğabilecek veri kaybı ya da
+   başka zararlardan sorumlu tutulamaz.
+5. "Sistem F" adı ve logosu Sistem F'ye aittir.
+
+---
+
+Kapatma Zamanlayıcısı — Copyright © 2026 Sistem F. All rights reserved.
+Free to use, and free to share unmodified and free of charge. Selling, modifying,
+reverse engineering, removing the "Powered by Sistem F" notice or republishing under
+another name is not permitted without written permission from Sistem F.
+Provided "as is", without warranty of any kind.
