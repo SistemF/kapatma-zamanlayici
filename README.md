@@ -4,9 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SistemF/kapatma-zamanlayici/releases/latest/download/KapatmaZamanlayici-Kurulum.exe"><b>⬇ İndir (Windows 10 / 11)</b></a>
+  <a href="https://github.com/SistemF/kapatma-zamanlayici/releases/latest/download/KapatmaZamanlayici-Kurulum.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20%C4%B0ndir-Windows%2010%20%2F%2011-2f81f7?style=for-the-badge" alt="İndir: Windows 10 / 11"></a>
+  <br>
+  <a href="https://github.com/SistemF/kapatma-zamanlayici/releases/latest/download/KapatmaZamanlayici-Kurulum.exe"><b>KapatmaZamanlayici-Kurulum.exe</b></a>
   · tek dosya, yaklaşık 13 MB · yönetici izni gerekmez · Türkçe
 </p>
+
+> **Programı indirmek için yukarıdaki mavi "İndir" düğmesine basın.** Sayfanın üstündeki yeşil **Code → Download ZIP** düğmesi programı değil, yalnızca bu açıklama dosyalarını indirir. Eski sürümler sağdaki **Releases** bölümünde.
 
 ---
 
