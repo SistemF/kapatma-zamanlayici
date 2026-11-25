@@ -3,6 +3,15 @@
 Her sürümün notları burada tutulur. Yayınlanırken ilgili bölüm güncelleme penceresinde gösterilir.
 Başlıklar: **Eklendi**, **İyileştirildi**, **Düzeltildi**, **Kaldırıldı**.
 
+## 2.5.1
+
+### Eklendi
+- **Önce kapatılacaklar (Ayarlar):** Kapat, Yeniden başlat ve Oturumu kapat'tan hemen önce seçtiğiniz programlar düzgünce kapatılır; 5 saniye içinde kapanmayanlar zorlanır. Virgülle ayrılır, `*` kullanılabilir. Bilgisayar açılınca programlar yine kendiliğinden başlar.
+
+### Düzeltildi
+- HyperX NGENUITY yüklü bilgisayarlarda kapanırken çıkan **"hxn-srv-audio-engine.exe – Uygulama düzgün olarak başlatılamadı (0xc0000142)"** penceresi. NGENUITY artık varsayılan olarak kapanıştan önce kapatılır.
+- Windows'un çalışması için gerekli süreçler bu listeye yazılsa bile kapatılmaz.
+
 ## 2.5.0
 
 ### Eklendi
